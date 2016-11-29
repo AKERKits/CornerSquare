@@ -1,0 +1,8 @@
+﻿"tool_diameter"=9
+"hole_clearance"=0.5
+"material_thickness"=18
+"clearance"=0.5
+"outer_slot"=0.5
+"fillet"=7
+"tab_thickness" = 20
+"tab_height" = 3
