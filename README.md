@@ -1,16 +1,16 @@
-#GroWall v1.0
+#CornerSquare v1.0
 
 *Overview*
 
-The **AKER GroWall** is a vertical garden designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
+The **AKER CornerSquare** is a garden bed designed to be fabricated using a CNC router and standard sheet materials. For more information, visit the [AKER Website](http://www.akerkits.com).
 
-![GroWall](https://github.com/AKERKits/GroWall/blob/master/Images/AKER%20-%20GroWall%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
+![CornerSquare](https://github.com/AKERKits/CornerSquare/blob/master/Images/AKER%20-%20CornerSquare%20-%20v1.0%20-%20Master%20Assembly%20Cropped-min.jpg)
 
 *Source Files*
 
-We model each kit in SolidWorks. To access the parametric source files, download the *AKER - GroWall - v1.0.zip* file and then establish local file references following this video: [AKER - Parametric Models](https://www.youtube.com/watch?v=Ewdrlv4nSA0). You can then adjust the model dimensions using the external *Equations.txt* file.
+We model each kit in SolidWorks. To access the parametric source files, download the *AKER - CornerSquare - v1.0.zip* file and then establish local file references following this video: [AKER - Parametric Models](https://www.youtube.com/watch?v=Ewdrlv4nSA0). You can then adjust the model dimensions using the external *Equations.txt* file.
 
-The **GroWall** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
+The **CornerSquare** was modeled using our updated 2016 modeling workflow, which provides a wider range of options than our 2015 process. This source file pack has DXFs in the following formats:
 
  * 0.5 inch material & 0.125 inch tool
  * 0.5 inch material & 0.25 inch tool
@@ -29,4 +29,4 @@ The **GroWall** was modeled using our updated 2016 modeling workflow, which prov
 
 *Nesting Layout*
 
-![GroWall](https://github.com/AKERKits/GroWall/blob/master/Images/AKER%20-%20GroWall%20-%20v1.0%20-%20Nesting%20Assembly%20Cropped-min.jpg)
+![CornerSquare](https://github.com/AKERKits/CornerSquare/blob/master/Images/AKER%20-%20CornerSquare%20-%20v1.0%20-%20Nesting%20Assembly%20Cropped-min.jpg)
